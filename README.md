@@ -1,0 +1,1 @@
+# node-vue-self-contained
